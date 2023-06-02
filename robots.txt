@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://howtoinstall1.netlify.app/sitemap.xml
